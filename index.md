@@ -10,3 +10,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Finish pull request
+- [ ] Not completed
+- [x] Complete
